@@ -9,3 +9,5 @@ class ApplicationController < ActionController::Base
     render html: "good bye, world"
   end
 end
+
+#this is just a test
